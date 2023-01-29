@@ -9,7 +9,7 @@ import Title from './components/Title'
 class App extends Component {
   state = {
     productos:[
-      {name: 'Tomate', price: 1500, img:'/productos/tomate.png'},
+      {name: 'Tomate', price: 2000, img:'/productos/tomate.png'},
       {name: 'Alberjas', price: 2500, img:'/productos/arbejas.png'},
       {name: 'Lechuga', price: 500, img:'/productos/lechuga.png'},
     ],
